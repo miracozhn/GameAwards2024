@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.45"
+        android:scaleY="0.45"
+        android:translateX="29.7"
+        android:translateY="29.7">
+        <!-- Heykel gövdesi -->
+        <path
+            android:fillColor="#1A1A1A"
+            android:pathData="M54,20 L54,88 C54,88 46,76 46,64 L46,20 Z"/>
+        <path
+            android:fillColor="#1A1A1A"
+            android:pathData="M62,20 L62,88 C62,88 70,76 70,64 L70,20 Z"/>
+        
+        <!-- Kanatlar -->
+        <path
+            android:fillColor="#1A1A1A"
+            android:pathData="M46,30 C46,30 30,40 25,60 C35,50 46,45 46,45 Z"/>
+        <path
+            android:fillColor="#1A1A1A"
+            android:pathData="M70,30 C70,30 86,40 91,60 C81,50 70,45 70,45 Z"/>
+        
+        <!-- Baş -->
+        <path
+            android:fillColor="#1A1A1A"
+            android:pathData="M54,15 C54,15 58,10 58,20 C58,20 62,15 62,25 C62,25 58,30 58,20 C58,20 54,25 54,15"/>
+    </group>
+</vector>

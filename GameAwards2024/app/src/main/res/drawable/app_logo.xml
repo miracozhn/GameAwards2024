@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="200"
+    android:viewportHeight="100">
+
+    <!-- Logo Sembolu (Çarpraz Kılıçlar) -->
+    <path
+        android:fillColor="#FFA500"
+        android:pathData="M40,30 L60,50 L40,70 L30,60 L45,45 L30,30 Z" />
+    <path
+        android:fillColor="#FFA500"
+        android:pathData="M80,30 L60,50 L80,70 L90,60 L75,45 L90,30 Z" />
+
+    <!-- THE GAME AWARDS Yazısı -->
+    <path
+        android:fillColor="#FFA500"
+        android:pathData="M100,35 L180,35 L180,45 L100,45 Z" />
+    <path
+        android:fillColor="#FFA500"
+        android:pathData="M100,55 L180,55 L180,65 L100,65 Z" />
+</vector> 
